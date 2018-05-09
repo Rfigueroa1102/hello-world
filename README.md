@@ -1,2 +1,3 @@
 # hello-world
-Leanring repository for notes and starting out. 
+Learning repository for notes and starting out. 
+Attemping to learn how to use Github in order to build up more skills. 
